@@ -39,3 +39,4 @@ titles
 title_id VARCHAR(5) PK
 title VARCHAR(255)
 
+ERD, Table Schemata (Format for creating tables in SQL), and queries were independently created by John T. Nguyen
